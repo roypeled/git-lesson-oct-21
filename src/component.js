@@ -3,9 +3,9 @@ function TheirComponent() {
 }
 
 function foobar() {
-    console.log('foobar')
+    console.log('foobaz')
 }
 
-function getUser() {
-    return 'blah'
+function getAdmin() {
+    return 'blue'
 }
