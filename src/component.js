@@ -1,1 +1,1 @@
-function Component() {}
+function TheirComponent() {}
