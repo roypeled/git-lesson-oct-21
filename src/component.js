@@ -1,5 +1,5 @@
-function TheirComponent() {
-    const x = 3;
+function MyComponent() {
+    const x = 10;
 }
 
 function foobar() {
@@ -8,4 +8,8 @@ function foobar() {
 
 function getAdmin() {
     return 'blue'
+}
+
+function getFriend() {
+    return 'green'
 }
