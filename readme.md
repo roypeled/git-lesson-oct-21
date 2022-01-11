@@ -1,3 +1,3 @@
-### this is ONLY MY repo!!!
+### this is OUR repo!!!
 
 This is awesome!!
