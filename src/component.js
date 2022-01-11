@@ -1,11 +1,11 @@
-function TheirComponent() {
-    const x = 3;
+function MyComponent() {
+    const x = 10;
 }
 
 function foobar() {
     console.log('foobar')
 }
 
-function getUser() {
-    return 'blah'
+function getFriend() {
+    return 'green'
 }
